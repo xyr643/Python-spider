@@ -1,5 +1,6 @@
 import time
 from selenium import webdriver
+from bs4 import BeautifulSoup
 
 
 def writetxt(cookname, src, table_list):
