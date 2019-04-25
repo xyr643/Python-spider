@@ -2,6 +2,7 @@
 ## -使用selenium进行网站爬虫
    1.Linkedin——职位数据  
    2.豆果网——美食数据（根据标签）
+   3.美食天下
   
 ## -使用request+beautifulsoup爬虫
    1.豆瓣——图书信息
